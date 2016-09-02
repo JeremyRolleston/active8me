@@ -1,0 +1,225 @@
+ProgramNutrition.program_id,ProgramNutrition.nutrition_id,ProgramNutrition.nutrition_type,ProgramNutrition.week,ProgramNutrition.day,ProgramNutrition.points
+lose_weight,Chicken Porridge,breakfast,1,Monday,50
+lose_weight,High Fibre Cereal with Low Fat Milk,breakfast,1,Tuesday,50
+lose_weight,Scrambled Egg Whites with Avocado,breakfast,1,Wednesday,50
+lose_weight,Yogurt and Pear Breakfast,breakfast,1,Thursday,50
+lose_weight,Steamed Red-Bean Bun,breakfast,1,Friday,50
+lose_weight,Mixed Berry Smoothie ,breakfast,1,Saturday,50
+lose_weight,High Fibre Cereal with Low Fat Milk,breakfast,1,Sunday,50
+lose_weight,Healthy Brown Rice Chicken Rice,lunch,1,Monday,50
+lose_weight,Sliced Fish Soup with Vegetables & Brown Rice,lunch,1,Tuesday,50
+lose_weight,Soba Noodle Salad with Edamame,lunch,1,Wednesday,50
+lose_weight,Salad wrap,lunch,1,Thursday,50
+lose_weight,Yong Tau Foo,lunch,1,Friday,50
+lose_weight,Pho with Chicken or Beef,lunch,1,Saturday,50
+lose_weight,Steamed Fish with Mixed Salad,lunch,1,Sunday,50
+lose_weight,A Handful of Nuts ,snack,1,Monday,50
+lose_weight,Protein Shake,snack,1,Tuesday,50
+lose_weight,Carrot or Celery Sticks with Almond Butter/Tahini/Hommus,snack,1,Wednesday,50
+lose_weight,Piece of fruit ,snack,1,Thursday,50
+lose_weight,Vegetable Juice,snack,1,Friday,50
+lose_weight,Hard-Boiled Eggs,snack,1,Saturday,50
+lose_weight,Low-Fat Yoghurt,snack,1,Sunday,50
+lose_weight,Char Kway Teow,dinner,1,Monday,50
+lose_weight,Pad Kaprao,dinner,1,Tuesday,50
+lose_weight,Steamed Fish with Mixed Salad,dinner,1,Wednesday,50
+lose_weight,Stir-Fried Fish Slices With Ginger & Spring Onions,dinner,1,Thursday,50
+lose_weight,Grilled Miso Cod and Leeks with Brown Rice,dinner,1,Friday,50
+lose_weight,Stir-Fried Kai Lan with Oyster Sauce,dinner,1,Saturday,50
+lose_weight,Thosai with Dhall Curry & Vegetables ,dinner,1,Sunday,50
+lose_weight,High Fibre Cereal with Low Fat Milk,breakfast,2,Monday,50
+lose_weight,Steamed Red-Bean Bun,breakfast,2,Tuesday,50
+lose_weight,Mixed Berry Smoothie ,breakfast,2,Wednesday,50
+lose_weight,Chicken Porridge,breakfast,2,Thursday,50
+lose_weight,Scrambled Egg Whites with Avocado,breakfast,2,Friday,50
+lose_weight,Yogurt and Pear Breakfast,breakfast,2,Saturday,50
+lose_weight,Chicken porridge,breakfast,2,Sunday,50
+lose_weight,Salad wrap,lunch,2,Monday,50
+lose_weight,Green Papaya Salad (Som Tum) ,lunch,2,Tuesday,50
+lose_weight,Chicken Curry,lunch,2,Wednesday,50
+lose_weight,Chinese Chicken Fried Rice,lunch,2,Thursday,50
+lose_weight,Salad wrap,lunch,2,Friday,50
+lose_weight,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,lunch,2,Saturday,50
+lose_weight,Mee Siam,lunch,2,Sunday,50
+lose_weight,Popiah ,snack,2,Monday,50
+lose_weight,Vita-weats with avocado slices or cottage cheese,snack,2,Tuesday,50
+lose_weight,A Handful of Nuts ,snack,2,Wednesday,50
+lose_weight,Apple Slices with Almond Butter,snack,2,Thursday,50
+lose_weight,Protein Shake,snack,2,Friday,50
+lose_weight,Hard-Boiled Eggs,snack,2,Saturday,50
+lose_weight,Herbal Tea,snack,2,Sunday,50
+lose_weight,Nasi Briyani Chicken with Vegetables & Basmati Rice,dinner,2,Monday,50
+lose_weight,Assam Laksa,dinner,2,Tuesday,50
+lose_weight,Beef Brisket Noodles (with lean beef cuts),dinner,2,Wednesday,50
+lose_weight,Pho with Chicken or Beef,dinner,2,Thursday,50
+lose_weight,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,dinner,2,Friday,50
+lose_weight,Har Mee (Prawn Noodles),dinner,2,Saturday,50
+lose_weight,Steak with Sweet Potato & Vegetables,dinner,2,Sunday,50
+lose_weight,Chicken Porridge,breakfast,3,Monday,50
+lose_weight,High fibre cereal with low fat milk,breakfast,3,Tuesday,50
+lose_weight,Scrambled egg whites with some slices of avocado,breakfast,3,Wednesday,50
+lose_weight,Yogurt and Pear Breakfast,breakfast,3,Thursday,50
+lose_weight,Steamed red-bean bun,breakfast,3,Friday,50
+lose_weight,A healthy mixed berry smoothie ,breakfast,3,Saturday,50
+lose_weight,High Fibre Cereal with Low Fat Milk,breakfast,3,Sunday,50
+lose_weight,Healthy Brown Rice Chicken Rice,lunch,3,Monday,50
+lose_weight,Sliced Fish Soup with Vegetables & Brown Rice,lunch,3,Tuesday,50
+lose_weight,Soba Noodle Salad with Edamame,lunch,3,Wednesday,50
+lose_weight,Salad wrap,lunch,3,Thursday,50
+lose_weight,Yong Tau Foo,lunch,3,Friday,50
+lose_weight,Pho with Chicken or Beef,lunch,3,Saturday,50
+lose_weight,Steamed Fish with Mixed Salad,lunch,3,Sunday,50
+lose_weight,A Handful of Nuts ,snack,3,Monday,50
+lose_weight,Protein Shake,snack,3,Tuesday,50
+lose_weight,Carrot or Celery Sticks with Almond Butter/Tahini/Hommus,snack,3,Wednesday,50
+lose_weight,Piece of fruit ,snack,3,Thursday,50
+lose_weight,Vegetable Juice,snack,3,Friday,50
+lose_weight,Hard-Boiled Eggs,snack,3,Saturday,50
+lose_weight,Low-Fat Yoghurt,snack,3,Sunday,50
+lose_weight,Char Kway Teow,dinner,3,Monday,50
+lose_weight,Pad Kaprao,dinner,3,Tuesday,50
+lose_weight,Steamed Fish with Mixed Salad,dinner,3,Wednesday,50
+lose_weight,Stir-Fried Fish Slices With Ginger & Spring Onions,dinner,3,Thursday,50
+lose_weight,Grilled Miso Cod and Leeks with Brown Rice,dinner,3,Friday,50
+lose_weight,Stir-Fried Kai Lan with Oyster Sauce,dinner,3,Saturday,50
+lose_weight,Thosai with Dhall Curry & Vegetables ,dinner,3,Sunday,50
+lose_weight,High Fibre Cereal with Low Fat Milk,breakfast,4,Monday,50
+lose_weight,Steamed Red-Bean Bun,breakfast,4,Tuesday,50
+lose_weight,Mixed Berry Smoothie ,breakfast,4,Wednesday,50
+lose_weight,Chicken Porridge,breakfast,4,Thursday,50
+lose_weight,Scrambled Egg Whites with Avocado,breakfast,4,Friday,50
+lose_weight,Yogurt and Pear Breakfast,breakfast,4,Saturday,50
+lose_weight,Chicken Porridge,breakfast,4,Sunday,50
+lose_weight,Salad wrap,lunch,4,Monday,50
+lose_weight,Green Papaya Salad (Som Tum) ,lunch,4,Tuesday,50
+lose_weight,Chicken Curry,lunch,4,Wednesday,50
+lose_weight,Chinese Chicken Fried Rice,lunch,4,Thursday,50
+lose_weight,Salad wrap,lunch,4,Friday,50
+lose_weight,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,lunch,4,Saturday,50
+lose_weight,Mee Siam,lunch,4,Sunday,50
+lose_weight,Popiah ,snack,4,Monday,50
+lose_weight,Vita-weats with avocado slices or cottage cheese,snack,4,Tuesday,50
+lose_weight,A Handful of Nuts ,snack,4,Wednesday,50
+lose_weight,Apple Slices with Almond Butter,snack,4,Thursday,50
+lose_weight,Protein Shake,snack,4,Friday,50
+lose_weight,Hard-Boiled Eggs,snack,4,Saturday,50
+lose_weight,Herbal Tea,snack,4,Sunday,50
+lose_weight,Nasi Briyani Chicken with Vegetables & Basmati Rice,dinner,4,Monday,50
+lose_weight,Assam Laksa,dinner,4,Tuesday,50
+lose_weight,Beef Brisket Noodles (with lean beef cuts),dinner,4,Wednesday,50
+lose_weight,Pho with Chicken or Beef,dinner,4,Thursday,50
+lose_weight,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,dinner,4,Friday,50
+lose_weight,Har Mee (Prawn Noodles),dinner,4,Saturday,50
+lose_weight,Steak with Sweet Potato & Vegetables,dinner,4,Sunday,50
+lean_fit_toned,Chicken Porridge,breakfast,1,Monday,50
+lean_fit_toned,High Fibre Cereal with Low Fat Milk,breakfast,1,Tuesday,50
+lean_fit_toned,Scrambled Egg Whites with Avocado,breakfast,1,Wednesday,50
+lean_fit_toned,Yogurt and Pear Breakfast,breakfast,1,Thursday,50
+lean_fit_toned,Steamed Red-Bean Bun,breakfast,1,Friday,50
+lean_fit_toned,Mixed Berry Smoothie ,breakfast,1,Saturday,50
+lean_fit_toned,High Fibre Cereal with Low Fat Milk,breakfast,1,Sunday,50
+lean_fit_toned,Healthy Brown Rice Chicken Rice,lunch,1,Monday,50
+lean_fit_toned,Sliced Fish Soup with Vegetables & Brown Rice,lunch,1,Tuesday,50
+lean_fit_toned,Soba Noodle Salad with Edamame,lunch,1,Wednesday,50
+lean_fit_toned,Salad wrap,lunch,1,Thursday,50
+lean_fit_toned,Yong Tau Foo,lunch,1,Friday,50
+lean_fit_toned,Pho with Chicken or Beef,lunch,1,Saturday,50
+lean_fit_toned,Steamed Fish with Mixed Salad,lunch,1,Sunday,50
+lean_fit_toned,A Handful of Nuts ,snack,1,Monday,50
+lean_fit_toned,Protein Shake,snack,1,Tuesday,50
+lean_fit_toned,Carrot or Celery Sticks with Almond Butter/Tahini/Hommus,snack,1,Wednesday,50
+lean_fit_toned,Piece of fruit ,snack,1,Thursday,50
+lean_fit_toned,Vegetable Juice,snack,1,Friday,50
+lean_fit_toned,Hard-Boiled Eggs,snack,1,Saturday,50
+lean_fit_toned,Low-Fat Yoghurt,snack,1,Sunday,50
+lean_fit_toned,Char Kway Teow,dinner,1,Monday,50
+lean_fit_toned,Pad Kaprao,dinner,1,Tuesday,50
+lean_fit_toned,Steamed Fish with Mixed Salad,dinner,1,Wednesday,50
+lean_fit_toned,Stir-Fried Fish Slices With Ginger & Spring Onions,dinner,1,Thursday,50
+lean_fit_toned,Grilled Miso Cod and Leeks with Brown Rice,dinner,1,Friday,50
+lean_fit_toned,Stir-Fried Kai Lan with Oyster Sauce,dinner,1,Saturday,50
+lean_fit_toned,Thosai with Dhall Curry & Vegetables ,dinner,1,Sunday,50
+lean_fit_toned,High Fibre Cereal with Low Fat Milk,breakfast,2,Monday,50
+lean_fit_toned,Steamed Red-Bean Bun,breakfast,2,Tuesday,50
+lean_fit_toned,Mixed Berry Smoothie ,breakfast,2,Wednesday,50
+lean_fit_toned,Chicken Porridge,breakfast,2,Thursday,50
+lean_fit_toned,Scrambled Egg Whites with Avocado,breakfast,2,Friday,50
+lean_fit_toned,Yogurt and Pear Breakfast,breakfast,2,Saturday,50
+lean_fit_toned,Chicken porridge,breakfast,2,Sunday,50
+lean_fit_toned,Salad wrap,lunch,2,Monday,50
+lean_fit_toned,Green Papaya Salad (Som Tum) ,lunch,2,Tuesday,50
+lean_fit_toned,Chicken Curry,lunch,2,Wednesday,50
+lean_fit_toned,Chinese Chicken Fried Rice,lunch,2,Thursday,50
+lean_fit_toned,Salad wrap,lunch,2,Friday,50
+lean_fit_toned,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,lunch,2,Saturday,50
+lean_fit_toned,Mee Siam,lunch,2,Sunday,50
+lean_fit_toned,Popiah ,snack,2,Monday,50
+lean_fit_toned,Vita-weats with avocado slices or cottage cheese,snack,2,Tuesday,50
+lean_fit_toned,A Handful of Nuts ,snack,2,Wednesday,50
+lean_fit_toned,Apple Slices with Almond Butter,snack,2,Thursday,50
+lean_fit_toned,Protein Shake,snack,2,Friday,50
+lean_fit_toned,Hard-Boiled Eggs,snack,2,Saturday,50
+lean_fit_toned,Herbal Tea,snack,2,Sunday,50
+lean_fit_toned,Nasi Briyani Chicken with Vegetables & Basmati Rice,dinner,2,Monday,50
+lean_fit_toned,Assam Laksa,dinner,2,Tuesday,50
+lean_fit_toned,Beef Brisket Noodles (with lean beef cuts),dinner,2,Wednesday,50
+lean_fit_toned,Pho with Chicken or Beef,dinner,2,Thursday,50
+lean_fit_toned,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,dinner,2,Friday,50
+lean_fit_toned,Har Mee (Prawn Noodles),dinner,2,Saturday,50
+lean_fit_toned,Steak with Sweet Potato & Vegetables,dinner,2,Sunday,50
+lean_fit_toned,Chicken Porridge,breakfast,3,Monday,50
+lean_fit_toned,High fibre cereal with low fat milk,breakfast,3,Tuesday,50
+lean_fit_toned,Scrambled egg whites with some slices of avocado,breakfast,3,Wednesday,50
+lean_fit_toned,Yogurt and Pear Breakfast,breakfast,3,Thursday,50
+lean_fit_toned,Steamed red-bean bun,breakfast,3,Friday,50
+lean_fit_toned,A healthy mixed berry smoothie ,breakfast,3,Saturday,50
+lean_fit_toned,High Fibre Cereal with Low Fat Milk,breakfast,3,Sunday,50
+lean_fit_toned,Healthy Brown Rice Chicken Rice,lunch,3,Monday,50
+lean_fit_toned,Sliced Fish Soup with Vegetables & Brown Rice,lunch,3,Tuesday,50
+lean_fit_toned,Soba Noodle Salad with Edamame,lunch,3,Wednesday,50
+lean_fit_toned,Salad wrap,lunch,3,Thursday,50
+lean_fit_toned,Yong Tau Foo,lunch,3,Friday,50
+lean_fit_toned,Pho with Chicken or Beef,lunch,3,Saturday,50
+lean_fit_toned,Steamed Fish with Mixed Salad,lunch,3,Sunday,50
+lean_fit_toned,A Handful of Nuts ,snack,3,Monday,50
+lean_fit_toned,Protein Shake,snack,3,Tuesday,50
+lean_fit_toned,Carrot or Celery Sticks with Almond Butter/Tahini/Hommus,snack,3,Wednesday,50
+lean_fit_toned,Piece of fruit ,snack,3,Thursday,50
+lean_fit_toned,Vegetable Juice,snack,3,Friday,50
+lean_fit_toned,Hard-Boiled Eggs,snack,3,Saturday,50
+lean_fit_toned,Low-Fat Yoghurt,snack,3,Sunday,50
+lean_fit_toned,Char Kway Teow,dinner,3,Monday,50
+lean_fit_toned,Pad Kaprao,dinner,3,Tuesday,50
+lean_fit_toned,Steamed Fish with Mixed Salad,dinner,3,Wednesday,50
+lean_fit_toned,Stir-Fried Fish Slices With Ginger & Spring Onions,dinner,3,Thursday,50
+lean_fit_toned,Grilled Miso Cod and Leeks with Brown Rice,dinner,3,Friday,50
+lean_fit_toned,Stir-Fried Kai Lan with Oyster Sauce,dinner,3,Saturday,50
+lean_fit_toned,Thosai with Dhall Curry & Vegetables ,dinner,3,Sunday,50
+lean_fit_toned,High Fibre Cereal with Low Fat Milk,breakfast,4,Monday,50
+lean_fit_toned,Steamed Red-Bean Bun,breakfast,4,Tuesday,50
+lean_fit_toned,Mixed Berry Smoothie ,breakfast,4,Wednesday,50
+lean_fit_toned,Chicken Porridge,breakfast,4,Thursday,50
+lean_fit_toned,Scrambled Egg Whites with Avocado,breakfast,4,Friday,50
+lean_fit_toned,Yogurt and Pear Breakfast,breakfast,4,Saturday,50
+lean_fit_toned,Chicken Porridge,breakfast,4,Sunday,50
+lean_fit_toned,Salad wrap,lunch,4,Monday,50
+lean_fit_toned,Green Papaya Salad (Som Tum) ,lunch,4,Tuesday,50
+lean_fit_toned,Chicken Curry,lunch,4,Wednesday,50
+lean_fit_toned,Chinese Chicken Fried Rice,lunch,4,Thursday,50
+lean_fit_toned,Salad wrap,lunch,4,Friday,50
+lean_fit_toned,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,lunch,4,Saturday,50
+lean_fit_toned,Mee Siam,lunch,4,Sunday,50
+lean_fit_toned,Popiah ,snack,4,Monday,50
+lean_fit_toned,Vita-weats with avocado slices or cottage cheese,snack,4,Tuesday,50
+lean_fit_toned,A Handful of Nuts ,snack,4,Wednesday,50
+lean_fit_toned,Apple Slices with Almond Butter,snack,4,Thursday,50
+lean_fit_toned,Protein Shake,snack,4,Friday,50
+lean_fit_toned,Hard-Boiled Eggs,snack,4,Saturday,50
+lean_fit_toned,Herbal Tea,snack,4,Sunday,50
+lean_fit_toned,Nasi Briyani Chicken with Vegetables & Basmati Rice,dinner,4,Monday,50
+lean_fit_toned,Assam Laksa,dinner,4,Tuesday,50
+lean_fit_toned,Beef Brisket Noodles (with lean beef cuts),dinner,4,Wednesday,50
+lean_fit_toned,Pho with Chicken or Beef,dinner,4,Thursday,50
+lean_fit_toned,Fried Bee Hoon with Vegetables & Tofu/Minced Chicken ,dinner,4,Friday,50
+lean_fit_toned,Har Mee (Prawn Noodles),dinner,4,Saturday,50
+lean_fit_toned,Steak with Sweet Potato & Vegetables,dinner,4,Sunday,50

@@ -1,0 +1,38 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/html/active8me
+permissions:
+  - object: /var/www/html/
+    pattern: "**"
+    owner: nobody
+    group: nobody
+permissions:
+  - object: /var/www/html/active8me/app/webroot/img/users
+    mode: 777
+    owner: nobody
+    group: nobody
+permissions:
+  - object: /var/www/html/active8me/app/tmp/cache
+    pattern: "**"
+    mode: 777
+    owner: nobody
+    group: nobody
+    type:
+      - directory
+permissions:
+  - object: /var/www/html/active8me/app/tmp/logs
+    pattern: "**"
+    mode: 777
+    owner: nobody
+    group: nobody
+hooks:
+   BeforeInstall:
+     - location: ./script2.sh
+       timeout: 5
+       runas: root
+   AfterInstall:
+     - location: ./script.sh
+       timeout: 5
+       runas: root

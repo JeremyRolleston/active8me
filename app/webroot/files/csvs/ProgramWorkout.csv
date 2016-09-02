@@ -1,0 +1,57 @@
+ProgramWorkout.program_id,ProgramWorkout.workout_id,ProgramWorkout.day,ProgramWorkout.week,ProgramWorkout.points
+lose_weight,Toning 1,Monday,1,100
+lose_weight,Cardio 1,Tuesday,1,100
+lose_weight,Toning 2,Wednesday,1,100
+lose_weight,Cardio 3,Thursday,1,100
+lose_weight,Yoga&Core,Friday,1,100
+lose_weight,Cardio 2,Saturday,1,100
+lose_weight,Rest Day,Sunday,1,0
+lose_weight,Toning 1,Monday,2,100
+lose_weight,Cardio 1,Tuesday,2,100
+lose_weight,Toning 2,Wednesday,2,100
+lose_weight,Cardio 3,Thursday,2,100
+lose_weight,Yoga&Core,Friday,2,100
+lose_weight,Cardio 2,Saturday,2,100
+lose_weight,Rest Day,Sunday,2,0
+lose_weight,Toning 1,Monday,3,100
+lose_weight,Cardio 1,Tuesday,3,100
+lose_weight,Toning 2,Wednesday,3,100
+lose_weight,Cardio 3,Thursday,3,100
+lose_weight,Yoga&Core,Friday,3,100
+lose_weight,Cardio 2,Saturday,3,100
+lose_weight,Rest Day,Sunday,3,0
+lose_weight,Toning 1,Monday,4,100
+lose_weight,Cardio 1,Tuesday,4,100
+lose_weight,Toning 2,Wednesday,4,100
+lose_weight,Cardio 3,Thursday,4,100
+lose_weight,Yoga&Core,Friday,4,100
+lose_weight,Cardio 2,Saturday,4,100
+lose_weight,Rest Day,Sunday,4,0
+lean_fit_toned,Toning 1,Monday,1,100
+lean_fit_toned,Cardio 1,Tuesday,1,100
+lean_fit_toned,Toning 2,Wednesday,1,100
+lean_fit_toned,Cardio 2,Thursday,1,100
+lean_fit_toned,Yoga&Core,Friday,1,100
+lean_fit_toned,Toning 3,Saturday,1,100
+lean_fit_toned,Rest Day,Sunday,1,0
+lean_fit_toned,Toning 1,Monday,2,100
+lean_fit_toned,Cardio 1,Tuesday,2,100
+lean_fit_toned,Toning 2,Wednesday,2,100
+lean_fit_toned,Cardio 2,Thursday,2,100
+lean_fit_toned,Yoga&Core,Friday,2,100
+lean_fit_toned,Toning 3,Saturday,2,100
+lean_fit_toned,Rest Day,Sunday,2,0
+lean_fit_toned,Toning 1,Monday,3,100
+lean_fit_toned,Cardio 1,Tuesday,3,100
+lean_fit_toned,Toning 2,Wednesday,3,100
+lean_fit_toned,Cardio 2,Thursday,3,100
+lean_fit_toned,Yoga&Core,Friday,3,100
+lean_fit_toned,Toning 3,Saturday,3,100
+lean_fit_toned,Rest Day,Sunday,3,0
+lean_fit_toned,Toning 1,Monday,4,100
+lean_fit_toned,Cardio 1,Tuesday,4,100
+lean_fit_toned,Toning 2,Wednesday,4,100
+lean_fit_toned,Cardio 2,Thursday,4,100
+lean_fit_toned,Yoga&Core,Friday,4,100
+lean_fit_toned,Toning 3,Saturday,4,100
+lean_fit_toned,Rest Day,Sunday,4,0
